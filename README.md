@@ -1,7 +1,8 @@
 ### print({👋 world!}) 
 
-<h1 style='color:green;';>✨I'm Full Stack Developer from Congo-Brazzaville✨</h1>
+<h1 style='color:green;';>✨I'm Full Stack Developer, a curious guys✨</h1>
 
+-  (ps:I admire code logics and creating anything possibe,...)
 - 🔭 I a feeling off being a Master in Python,...well currently taking down javascript (...),...
 - 🌱 in Python, i do a bit of DevOPs, ML, Data Science (Analyis,visualazation,...)...<!--- 👯 I’m looking to collaborate on ... <!--- 🤔 I’m looking for help with ...-->
 - 💬 I remani a open for chat,...
